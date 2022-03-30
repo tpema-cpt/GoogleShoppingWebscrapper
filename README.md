@@ -1,4 +1,4 @@
-# GoogleShoppingWebscrapper
+# Price Ratings and Analysis
 
 ## Setup & Installtion
 
